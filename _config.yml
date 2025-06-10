@@ -22,7 +22,7 @@ repository: "Dantun1/Dantun1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "pic.png"
+  avatar: "pic.jpg"
   name: "Daniel Tunyan"
   pronouns: # example: "she/her"
   bio: "Data Science and Machine Learning enthusiast"
