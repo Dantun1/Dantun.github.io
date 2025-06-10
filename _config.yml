@@ -22,11 +22,11 @@ repository: "Dantun1/Dantun1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "pic.png"
   name: "Daniel Tunyan"
   pronouns: # example: "she/her"
   bio: "Data Science and Machine Learning enthusiast"
-  location: "Earth"
+  location: "London, UK"
   employer: "University of Edinburgh"
   uri: # URL
   email: "Daniel@Tunyan.com"
